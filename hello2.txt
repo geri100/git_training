@@ -1,7 +1,2 @@
 Hello word!
-Second line.
-<<<<<<< HEAD
-Master 3rd line
-=======
-Third line.
->>>>>>> iss96
+Second line..
