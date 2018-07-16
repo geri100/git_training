@@ -1,2 +1,3 @@
 Hello word!
 Second line.
+Master 3rd line
