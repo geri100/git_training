@@ -1,0 +1,7 @@
+Hello word!
+<<<<<<< HEAD
+Second line..
+Third line
+=======
+Second line.Line:
+>>>>>>> test master
